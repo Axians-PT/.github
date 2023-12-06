@@ -14,11 +14,11 @@ Interested in contributing to our projects? Check out the [Contributing guidelin
 
 ## Issues
 
-Have a bug to report or an enhancement to suggest? Visit our [Issues section](https://github.com/AxiansPortugal/.github/issues) to share your insights. Your feedback helps us improve and evolve.
+Have a bug to report or an enhancement to suggest? Visit our [Issues section](https://github.com/Axians-PT/.github/issues) to share your insights. Your feedback helps us improve and evolve.
 
 ## Pull Requests
 
-Ready to submit a change? Navigate to [Pull Requests](https://github.com/AxiansPortugal/.github/pulls) to contribute your modifications. We welcome your contributions and encourage collaborative problem-solving.
+Ready to submit a change? Navigate to [Pull Requests](https://github.com/Axians-PT/.github/pulls) to contribute your modifications. We welcome your contributions and encourage collaborative problem-solving.
 
 ## Connect with Us
 

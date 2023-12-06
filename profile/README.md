@@ -1,6 +1,6 @@
-# Axians Portugal
-
-Welcome to Axians Portugal GitHub organization!
+<div align=center>
+👋 Welcome to <b>Axians Portugal</b> GitHub organization!
+</div>
 
 ## About Axians
 
@@ -14,4 +14,8 @@ Axians is a brand of VINCI Energies, a leading provider of energy, information t
 
 ## Connect with Us
 
-Explore our repositories, connect, and collaborate. Thank you for visiting Axians Portugal on GitHub!
+Explore our repositories, connect, and collaborate. 
+
+<div align=center>
+🚀 <b>Thank you for visiting Axians Portugal on GitHub!</b> 🚀
+</div>
